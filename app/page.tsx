@@ -40,7 +40,8 @@ export default function Home() {
           ></div>
         </div>
         <h1 className="text-6xl font-bold mb-4 text-center">昂言信息</h1>
-        <p className="text-2xl mb-8 text-center">专注互联网创新与AI技术</p>
+        <p className="text-4xl mb-8 text-center">专注互联网创新与AI应用</p>
+        <p className="text-xl mb-8">我们致力于推动技术前沿，为您的业务赋能</p>
       </motion.header>
 
       <main className="container mx-auto px-4 py-16">
